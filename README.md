@@ -1,8 +1,12 @@
-# origin-plugin
+# origin-plugin (archived)
 
-Claude Code plugin for [Origin](https://github.com/7xuanlu/origin). Where Personal AI Memory Compounds.
+This plugin is now part of the Origin monorepo:
 
-Bundles the `origin-mcp` MCP server (auto-installed via `npx -y origin-mcp`) and adds 8 short-typed slash commands for the user-facing memory verbs.
+- **Install:** `/plugin install 7xuanlu/origin`
+- **Source:** https://github.com/7xuanlu/origin/tree/main/.claude-plugin
+- **Issues:** https://github.com/7xuanlu/origin/issues
+
+For the last standalone version, see git tag `pre-monorepo-merge`.
 
 ## Verbs
 
